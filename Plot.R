@@ -1,4 +1,6 @@
 # here i did the line
+# it also mades a parabola
+
 
 x <- -10:10
 b <- -2
